@@ -1,0 +1,2 @@
+# majhong
+majhong auto reading
